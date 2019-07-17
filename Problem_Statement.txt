@@ -1,0 +1,7 @@
+Tweets.csv file contains the collection of Tweets and their lable as Positive, Negative or Neutral
+
+I have used Logistic Regression and created a pipeline model for Preprocessing and 
+Predictive modelling.
+
+We can use this trained model further for live streaming data(Live Tweeter Data) 
+(using Kafka and kibana)

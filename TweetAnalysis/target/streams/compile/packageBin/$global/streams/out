@@ -1,0 +1,9 @@
+[info] Packaging C:\Users\nikhi\Desktop\Github\TweetAnalysis\target\scala-2.11\assignment2_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	TweetProcessing$$anonfun$1.class
+[debug] 	  C:\Users\nikhi\Desktop\Github\TweetAnalysis\target\scala-2.11\classes\TweetProcessing$$anonfun$1.class
+[debug] 	TweetProcessing$.class
+[debug] 	  C:\Users\nikhi\Desktop\Github\TweetAnalysis\target\scala-2.11\classes\TweetProcessing$.class
+[debug] 	TweetProcessing.class
+[debug] 	  C:\Users\nikhi\Desktop\Github\TweetAnalysis\target\scala-2.11\classes\TweetProcessing.class
+[info] Done packaging.
